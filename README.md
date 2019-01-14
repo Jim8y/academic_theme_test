@@ -1,2 +1,2 @@
 # academic_theme_test
-academic theme test
+academic multilanguage theme test
