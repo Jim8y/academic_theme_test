@@ -375,6 +375,7 @@ enableGitInfo = false
     weight = 1
 
 [languages.hu]
+  languageName = "Magyar"
   languageCode = "hu"
   title = "Hungarian website title..."
   [languages.hu.params]
