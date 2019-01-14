@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/zh/categories/" hreflang="zh"/>
+      <xhtml:link rel="alternate" href="/hu/categories/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/ru/categories/" hreflang="ru"/>
+      <xhtml:link rel="alternate" href="/nl/categories/" hreflang="nl"/>
+      <xhtml:link rel="alternate" href="/sk/categories/" hreflang="sk"/>
+      <xhtml:link rel="alternate" href="/categories/" hreflang="en"/>
+    
+      <loc>/zh/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/zh/" hreflang="zh"/>
+      <xhtml:link rel="alternate" href="/hu/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/nl/" hreflang="nl"/>
+      <xhtml:link rel="alternate" href="/sk/" hreflang="sk"/>
+      <xhtml:link rel="alternate" href="/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/ru/" hreflang="ru"/>
+    
+      <loc>/zh/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/zh/publication_types/" hreflang="zh"/>
+      <xhtml:link rel="alternate" href="/hu/publication_types/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/ru/publication_types/" hreflang="ru"/>
+      <xhtml:link rel="alternate" href="/nl/publication_types/" hreflang="nl"/>
+      <xhtml:link rel="alternate" href="/sk/publication_types/" hreflang="sk"/>
+      <xhtml:link rel="alternate" href="/publication_types/" hreflang="en"/>
+    
+      <loc>/zh/publication_types/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/zh/tags/" hreflang="zh"/>
+      <xhtml:link rel="alternate" href="/hu/tags/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/ru/tags/" hreflang="ru"/>
+      <xhtml:link rel="alternate" href="/nl/tags/" hreflang="nl"/>
+      <xhtml:link rel="alternate" href="/sk/tags/" hreflang="sk"/>
+      <xhtml:link rel="alternate" href="/tags/" hreflang="en"/>
+    
+      <loc>/zh/tags/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+</urlset>
