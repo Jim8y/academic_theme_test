@@ -1,2 +1,2 @@
 # academic_theme_test
-testing multilanguage capabilities 
+academic theme test
