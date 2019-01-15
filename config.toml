@@ -361,18 +361,8 @@ enableGitInfo = false
 # Configure the English version of the website.
 [languages.en]
   languageCode = "en-us"
+  weight = 1
 
-# Uncomment the lines below to configure your website in a second language.
-[languages.zh]
-  languageCode = "zh-Hans"
-  title = "Chinese website title..."
-  [languages.zh.params]
-    name = "Your name in Chinese..."
-    role = "Your role in Chinese..."
-  [[languages.zh.menu.main]]
-    name = "Wo"
-    url = "#about"
-    weight = 1
 
 [languages.hu]
   languageName = "Magyar"
@@ -388,46 +378,5 @@ enableGitInfo = false
    [[languages.hu.menu.main]]
     name = "Blog"
     url = "#posts"
-    weight = 3
+    weight = 2
     
-[languages.ru]
-  languageCode = "ru"
-  title = "Моя русская версия...."
-  [languages.ru.params]
-    name = "Daniel Antal"
-    role = "фотолюбитель"
-  [[languages.ru.menu.main]]
-    name = "Обо мне"
-    url = "#about"
-    weight = 1
-    
-
-[languages.nl]
-  languageCode = "nl"
-  title = "Mijn Nederlandstalige website...."
-  [languages.nl.params]
-    name = "Daniel Antal"
-    role = "amateurfotograaf"
-  [[languages.nl.menu.main]]
-    name = "Over mij"
-    url = "#about"
-    weight = 1
-  [[languages.nl.menu.main]]
-    name = "Blog"
-    url = "#posts"
-    weight = 3
-    
-[languages.sk]
-  languageCode = "sk"
-  title = "Moje slovenské stránky..."
-  [languages.sk.params]
-    name = "Daniel Antal"
-    role = "amatérsky fotograf"
-  [[languages.sk.menu.main]]
-    name = "O mne"
-    url = "#about"
-    weight = 1
- [[languages.sk.menu.main]]
-    name = "Blog"
-    url = "#posts"
-    weight = 3

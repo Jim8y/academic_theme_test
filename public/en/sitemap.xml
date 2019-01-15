@@ -2,9 +2,65 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
     <url>
     
-      <loc>/tutorial/example/</loc>
+      <loc>/english/tutorial/example/</loc>
       <lastmod>2018-09-09T00:00:00+02:00</lastmod>
     </url>
     
@@ -12,7 +68,23 @@
     
     <url>
     
-      <loc>/tutorial/</loc>
+      <loc>/hungarian/tutorial/example/</loc>
+      <lastmod>2018-09-09T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/english/tutorial/</loc>
+      <lastmod>2018-09-09T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/hungarian/tutorial/</loc>
       <lastmod>2018-09-09T00:00:00+02:00</lastmod>
     </url>
     
@@ -28,7 +100,7 @@
     
     <url>
     
-      <loc>/talk/example/</loc>
+      <loc>/english/talk/example/</loc>
       <lastmod>2017-01-01T00:00:00+01:00</lastmod>
     </url>
     
@@ -36,7 +108,7 @@
     
     <url>
     
-      <loc>/post/</loc>
+      <loc>/hungarian/talk/example/</loc>
       <lastmod>2017-01-01T00:00:00+01:00</lastmod>
     </url>
     
@@ -44,7 +116,7 @@
     
     <url>
     
-      <loc>/publication/</loc>
+      <loc>/english/post/</loc>
       <lastmod>2017-01-01T00:00:00+01:00</lastmod>
     </url>
     
@@ -52,7 +124,7 @@
     
     <url>
     
-      <loc>/talk/</loc>
+      <loc>/hungarian/post/</loc>
       <lastmod>2017-01-01T00:00:00+01:00</lastmod>
     </url>
     
@@ -60,7 +132,39 @@
     
     <url>
     
-      <loc>/project/external-project/</loc>
+      <loc>/english/publication/</loc>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/hungarian/publication/</loc>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/english/talk/</loc>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/hungarian/talk/</loc>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/english/project/external-project/</loc>
       <lastmod>2016-04-27T00:00:00+02:00</lastmod>
     </url>
     
@@ -68,7 +172,7 @@
     
     <url>
     
-      <loc>/project/internal-project/</loc>
+      <loc>/hungarian/project/external-project/</loc>
       <lastmod>2016-04-27T00:00:00+02:00</lastmod>
     </url>
     
@@ -76,7 +180,23 @@
     
     <url>
     
-      <loc>/post/getting-started/</loc>
+      <loc>/english/project/internal-project/</loc>
+      <lastmod>2016-04-27T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/hungarian/project/internal-project/</loc>
+      <lastmod>2016-04-27T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/english/post/getting-started/</loc>
       <lastmod>2018-01-13T00:00:00+01:00</lastmod>
     </url>
     
@@ -84,7 +204,15 @@
     
     <url>
     
-      <loc>/publication/person-re-id/</loc>
+      <loc>/hungarian/post/getting-started/</loc>
+      <lastmod>2018-01-13T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/english/publication/person-re-id/</loc>
       <lastmod>2015-09-01T00:00:00+02:00</lastmod>
     </url>
     
@@ -92,7 +220,23 @@
     
     <url>
     
-      <loc>/publication/clothing-search/</loc>
+      <loc>/hungarian/publication/person-re-id/</loc>
+      <lastmod>2015-09-01T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/english/publication/clothing-search/</loc>
+      <lastmod>2013-07-01T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/hungarian/publication/clothing-search/</loc>
       <lastmod>2013-07-01T00:00:00+02:00</lastmod>
     </url>
     
@@ -128,11 +272,7 @@
     <url>
     
       <xhtml:link rel="alternate" href="/categories/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/zh/categories/" hreflang="zh"/>
       <xhtml:link rel="alternate" href="/hu/categories/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/ru/categories/" hreflang="ru"/>
-      <xhtml:link rel="alternate" href="/nl/categories/" hreflang="nl"/>
-      <xhtml:link rel="alternate" href="/sk/categories/" hreflang="sk"/>
     
       <loc>/categories/</loc>
       <priority>0</priority>
@@ -160,8 +300,17 @@
     
     <url>
     
-      <loc>/project/</loc>
-      <lastmod>2016-04-27T00:00:00+02:00</lastmod>
+      <loc>/english/</loc>
+      <lastmod>2017-10-15T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/hungarian/</loc>
+      <lastmod>2017-10-15T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -170,11 +319,7 @@
     <url>
     
       <xhtml:link rel="alternate" href="/publication_types/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/zh/publication_types/" hreflang="zh"/>
       <xhtml:link rel="alternate" href="/hu/publication_types/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/ru/publication_types/" hreflang="ru"/>
-      <xhtml:link rel="alternate" href="/nl/publication_types/" hreflang="nl"/>
-      <xhtml:link rel="alternate" href="/sk/publication_types/" hreflang="sk"/>
     
       <loc>/publication_types/</loc>
       <lastmod>2013-07-01T00:00:00+02:00</lastmod>
@@ -185,15 +330,14 @@
     
     <url>
     
-      <loc>/slides/</loc>
-      <priority>0</priority>
+      <loc>/english/slides/example-slides/</loc>
     </url>
     
   
     
     <url>
     
-      <loc>/slides/example-slides/</loc>
+      <loc>/hungarian/slides/example-slides/</loc>
     </url>
     
   
@@ -201,11 +345,7 @@
     <url>
     
       <xhtml:link rel="alternate" href="/tags/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/zh/tags/" hreflang="zh"/>
       <xhtml:link rel="alternate" href="/hu/tags/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/ru/tags/" hreflang="ru"/>
-      <xhtml:link rel="alternate" href="/nl/tags/" hreflang="nl"/>
-      <xhtml:link rel="alternate" href="/sk/tags/" hreflang="sk"/>
     
       <loc>/tags/</loc>
       <lastmod>2018-01-13T00:00:00+01:00</lastmod>
@@ -217,11 +357,7 @@
     <url>
     
       <xhtml:link rel="alternate" href="/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/zh/" hreflang="zh"/>
       <xhtml:link rel="alternate" href="/hu/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/nl/" hreflang="nl"/>
-      <xhtml:link rel="alternate" href="/sk/" hreflang="sk"/>
-      <xhtml:link rel="alternate" href="/ru/" hreflang="ru"/>
     
       <loc>/</loc>
       <lastmod>2017-10-15T00:00:00+02:00</lastmod>

@@ -6,10 +6,6 @@
     
       <xhtml:link rel="alternate" href="/hu/categories/" hreflang="hu"/>
       <xhtml:link rel="alternate" href="/categories/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/zh/categories/" hreflang="zh"/>
-      <xhtml:link rel="alternate" href="/ru/categories/" hreflang="ru"/>
-      <xhtml:link rel="alternate" href="/nl/categories/" hreflang="nl"/>
-      <xhtml:link rel="alternate" href="/sk/categories/" hreflang="sk"/>
     
       <loc>/hu/categories/</loc>
       <priority>0</priority>
@@ -20,11 +16,7 @@
     <url>
     
       <xhtml:link rel="alternate" href="/hu/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/zh/" hreflang="zh"/>
-      <xhtml:link rel="alternate" href="/nl/" hreflang="nl"/>
-      <xhtml:link rel="alternate" href="/sk/" hreflang="sk"/>
       <xhtml:link rel="alternate" href="/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/ru/" hreflang="ru"/>
     
       <loc>/hu/</loc>
       <priority>0</priority>
@@ -36,10 +28,6 @@
     
       <xhtml:link rel="alternate" href="/hu/publication_types/" hreflang="hu"/>
       <xhtml:link rel="alternate" href="/publication_types/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/zh/publication_types/" hreflang="zh"/>
-      <xhtml:link rel="alternate" href="/ru/publication_types/" hreflang="ru"/>
-      <xhtml:link rel="alternate" href="/nl/publication_types/" hreflang="nl"/>
-      <xhtml:link rel="alternate" href="/sk/publication_types/" hreflang="sk"/>
     
       <loc>/hu/publication_types/</loc>
       <priority>0</priority>
@@ -51,10 +39,6 @@
     
       <xhtml:link rel="alternate" href="/hu/tags/" hreflang="hu"/>
       <xhtml:link rel="alternate" href="/tags/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/zh/tags/" hreflang="zh"/>
-      <xhtml:link rel="alternate" href="/ru/tags/" hreflang="ru"/>
-      <xhtml:link rel="alternate" href="/nl/tags/" hreflang="nl"/>
-      <xhtml:link rel="alternate" href="/sk/tags/" hreflang="sk"/>
     
       <loc>/hu/tags/</loc>
       <priority>0</priority>
