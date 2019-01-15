@@ -1,5 +1,5 @@
 +++
-title = "A Person Re-Identification System For Mobile Devices"
+title = "Személyes újraazonosító rendszer mobilra"
 date = 2015-09-01T00:00:00
 draft = false
 
@@ -22,8 +22,8 @@ publication = "In *Signal Image Technology & Internet Systems (SITIS)*, IEEE."
 publication_short = "In *SITIS*"
 
 # Abstract and optional shortened version.
-abstract = "Person re-identification is a critical security task for recognizing a person across spatially disjoint sensors. Previous work can be computationally intensive and is mainly based on low-level cues extracted from RGB data and implemented on a PC for a fixed sensor network (such as traditional CCTV). We present a practical and efficient framework for mobile devices (such as smart phones and robots) where high-level semantic soft biometrics are extracted from RGB and depth data. By combining these cues, our approach attempts to provide robustness to noise, illumination, and minor variations in clothing. This mobile approach may be particularly useful for the identification of persons in areas ill-served by fixed sensors or for tasks where the sensor position and direction need to dynamically adapt to a target. Results on the BIWI dataset are preliminary but encouraging. Further evaluation and demonstration of the system will be available on our website."
-abstract_short = ""
+abstract = "If you do not copy the featured.jpg into the translated folder, Hugo will use the default language image. It is English if you do not specify otherwise, or the one that you set in the TOML with weight 1."
+abstract_short = "A fotót nem másoltam ide, az a default (angol) könyvtárból jön. The photo is not copied here. It is coming from the default language library."
 
 # Is this a selected publication? (true/false)
 selected = false

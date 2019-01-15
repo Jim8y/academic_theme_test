@@ -10,7 +10,7 @@ draft = false
 authors = []
 
 tags = ["Academic"]
-summary = "Create a beautifully simple website or blog in under 10 minutes."
+summary = "Egyszerűen gyönyörű oldal hugo rendszeren 10 perc alatt."
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -24,7 +24,7 @@ summary = "Create a beautifully simple website or blog in under 10 minutes."
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)"
+  caption = "Image credit: [**Anita Ritenour**](https://www.flickr.com/photos/puliarfanita/7167723539/)"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight

@@ -14,19 +14,10 @@
     
     <item>
       <title>External Project</title>
-      <link>/english/project/external-project/</link>
+      <link>/project/external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>/english/project/external-project/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>External Project</title>
-      <link>/hungarian/project/external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
-      
-      <guid>/hungarian/project/external-project/</guid>
+      <guid>/project/external-project/</guid>
       <description></description>
     </item>
     

@@ -358,19 +358,24 @@ enableGitInfo = false
 #   Create a [languages.X] block for each language you want, where X is the language ID.
 #   Refer to https://sourcethemes.com/academic/docs/language/
 
-# Configure the English version of the website.
+[languages]
+
 [languages.en]
-  languageCode = "en-us"
-  weight = 1
+ languageName =  "English"
+ languageCode = "en-us"
+ weight = 1
+ contentDir= "content/english"
 
 
 [languages.hu]
   languageName = "Magyar"
   languageCode = "hu"
   title = "Hungarian website title..."
+  contentDir = "content/hungarian"
+  weight = 2
   [languages.hu.params]
-    name = "Antal Dániel"
-    role = "amator fényképész"
+    name = "Lena Smith"
+    role = "a mesterséges intelligencia egyetemi tanára"
   [[languages.hu.menu.main]]
     name = "Rólam"
     url = "#about"
@@ -378,5 +383,26 @@ enableGitInfo = false
    [[languages.hu.menu.main]]
     name = "Blog"
     url = "#posts"
+    weight = 3
+   [[languages.hu.menu.main]]
+    name = "Publikációk"
+    url = "#publications_selected"
     weight = 2
+    [[languages.hu.menu.main]]
+  name = "Projektek"
+  url = "#projects"
+  weight = 4
+  [[languages.hu.menu.main]]
+  name = "Útmutatók"
+  url = "/tutorial/"
+  weight = 5
+
+[[languages.hu.menu.main]]
+  name = "Kapcsolat"
+  url = "#contact"
+  weight = 6
+
+
+
+
     

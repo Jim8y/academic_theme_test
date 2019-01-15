@@ -3,7 +3,7 @@
 widget = "experience"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 
-title = "Experience"
+title = "Szakmai tapasztalat"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -19,27 +19,27 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
+  title = "ügyvezető"
   company = "GenCoin"
   company_url = ""
-  location = "California"
+  location = "Kalifornia, Egyesült Államok"
   date_start = "2017-01-01"
   date_end = ""
   description = """
-  Responsibilities include:
+  A feladataim közé tartozik:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Elemzés
+  * Modellezés
+  * Alkalmazás 
   """
 
 [[experience]]
-  title = "Professor"
+  title = "Egyetemi tanár"
   company = "University X"
   company_url = ""
-  location = "California"
+  location = "Kalifornia, Egyesült Államok"
   date_start = "2016-01-01"
   date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = """Villamosmérnöki ismeretek és félvezető fizikai kutatások."""
 
 +++

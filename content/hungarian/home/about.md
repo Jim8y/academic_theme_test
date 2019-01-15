@@ -11,8 +11,8 @@ weight = 5
 [interests]
   interests = [
     "Mesterséges intelligencia",
-    "Ökonometria",
-    "Jogdíjak"
+    "Számítógépes nyelvészet",
+    "Információkinyerés"
   ]
 
 # List your qualifications (such as academic degrees).

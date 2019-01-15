@@ -2,65 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
     <url>
     
-      <loc>/english/tutorial/example/</loc>
+      <xhtml:link rel="alternate" href="/tutorial/example/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/hu/tutorial/example/" hreflang="hu"/>
+    
+      <loc>/tutorial/example/</loc>
       <lastmod>2018-09-09T00:00:00+02:00</lastmod>
     </url>
     
@@ -68,7 +15,10 @@
     
     <url>
     
-      <loc>/hungarian/tutorial/example/</loc>
+      <xhtml:link rel="alternate" href="/tutorial/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/hu/tutorial/" hreflang="hu"/>
+    
+      <loc>/tutorial/</loc>
       <lastmod>2018-09-09T00:00:00+02:00</lastmod>
     </url>
     
@@ -76,31 +26,10 @@
     
     <url>
     
-      <loc>/english/tutorial/</loc>
-      <lastmod>2018-09-09T00:00:00+02:00</lastmod>
-    </url>
+      <xhtml:link rel="alternate" href="/talk/example/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/hu/talk/example/" hreflang="hu"/>
     
-  
-    
-    <url>
-    
-      <loc>/hungarian/tutorial/</loc>
-      <lastmod>2018-09-09T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/privacy/</loc>
-      <lastmod>2018-06-28T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/english/talk/example/</loc>
+      <loc>/talk/example/</loc>
       <lastmod>2017-01-01T00:00:00+01:00</lastmod>
     </url>
     
@@ -108,7 +37,10 @@
     
     <url>
     
-      <loc>/hungarian/talk/example/</loc>
+      <xhtml:link rel="alternate" href="/post/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/hu/post/" hreflang="hu"/>
+    
+      <loc>/post/</loc>
       <lastmod>2017-01-01T00:00:00+01:00</lastmod>
     </url>
     
@@ -116,7 +48,10 @@
     
     <url>
     
-      <loc>/english/post/</loc>
+      <xhtml:link rel="alternate" href="/publication/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/hu/publication/" hreflang="hu"/>
+    
+      <loc>/publication/</loc>
       <lastmod>2017-01-01T00:00:00+01:00</lastmod>
     </url>
     
@@ -124,7 +59,10 @@
     
     <url>
     
-      <loc>/hungarian/post/</loc>
+      <xhtml:link rel="alternate" href="/talk/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/hu/talk/" hreflang="hu"/>
+    
+      <loc>/talk/</loc>
       <lastmod>2017-01-01T00:00:00+01:00</lastmod>
     </url>
     
@@ -132,39 +70,10 @@
     
     <url>
     
-      <loc>/english/publication/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
-    </url>
+      <xhtml:link rel="alternate" href="/project/external-project/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/hu/project/external-project/" hreflang="hu"/>
     
-  
-    
-    <url>
-    
-      <loc>/hungarian/publication/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/english/talk/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/hungarian/talk/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/english/project/external-project/</loc>
+      <loc>/project/external-project/</loc>
       <lastmod>2016-04-27T00:00:00+02:00</lastmod>
     </url>
     
@@ -172,7 +81,10 @@
     
     <url>
     
-      <loc>/hungarian/project/external-project/</loc>
+      <xhtml:link rel="alternate" href="/project/internal-project/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/hu/project/internal-project/" hreflang="hu"/>
+    
+      <loc>/project/internal-project/</loc>
       <lastmod>2016-04-27T00:00:00+02:00</lastmod>
     </url>
     
@@ -180,23 +92,10 @@
     
     <url>
     
-      <loc>/english/project/internal-project/</loc>
-      <lastmod>2016-04-27T00:00:00+02:00</lastmod>
-    </url>
+      <xhtml:link rel="alternate" href="/post/getting-started/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/hu/post/getting-started/" hreflang="hu"/>
     
-  
-    
-    <url>
-    
-      <loc>/hungarian/project/internal-project/</loc>
-      <lastmod>2016-04-27T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/hungarian/post/getting-started/</loc>
+      <loc>/post/getting-started/</loc>
       <lastmod>2018-01-13T00:00:00+01:00</lastmod>
     </url>
     
@@ -204,15 +103,10 @@
     
     <url>
     
-      <loc>/english/post/getting-started/</loc>
-      <lastmod>2018-01-13T00:00:00+01:00</lastmod>
-    </url>
+      <xhtml:link rel="alternate" href="/publication/person-re-id/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/hu/publication/person-re-id/" hreflang="hu"/>
     
-  
-    
-    <url>
-    
-      <loc>/english/publication/person-re-id/</loc>
+      <loc>/publication/person-re-id/</loc>
       <lastmod>2015-09-01T00:00:00+02:00</lastmod>
     </url>
     
@@ -220,15 +114,10 @@
     
     <url>
     
-      <loc>/hungarian/publication/person-re-id/</loc>
-      <lastmod>2015-09-01T00:00:00+02:00</lastmod>
-    </url>
+      <xhtml:link rel="alternate" href="/publication/clothing-search/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/hu/publication/clothing-search/" hreflang="hu"/>
     
-  
-    
-    <url>
-    
-      <loc>/english/publication/clothing-search/</loc>
+      <loc>/publication/clothing-search/</loc>
       <lastmod>2013-07-01T00:00:00+02:00</lastmod>
     </url>
     
@@ -236,13 +125,8 @@
     
     <url>
     
-      <loc>/hungarian/publication/clothing-search/</loc>
-      <lastmod>2013-07-01T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
+      <xhtml:link rel="alternate" href="/publication_types/1/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/hu/publication_types/1/" hreflang="hu"/>
     
       <loc>/publication_types/1/</loc>
       <lastmod>2013-07-01T00:00:00+02:00</lastmod>
@@ -253,6 +137,9 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="/publication_types/2/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/hu/publication_types/2/" hreflang="hu"/>
+    
       <loc>/publication_types/2/</loc>
       <lastmod>2015-09-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
@@ -261,6 +148,9 @@
   
     
     <url>
+    
+      <xhtml:link rel="alternate" href="/tags/academic/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/hu/tags/academic/" hreflang="hu"/>
     
       <loc>/tags/academic/</loc>
       <lastmod>2018-01-13T00:00:00+01:00</lastmod>
@@ -282,6 +172,9 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="/tags/deep-learning/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/hu/tags/deep-learning/" hreflang="hu"/>
+    
       <loc>/tags/deep-learning/</loc>
       <lastmod>2016-04-27T00:00:00+02:00</lastmod>
       <priority>0</priority>
@@ -290,6 +183,9 @@
   
     
     <url>
+    
+      <xhtml:link rel="alternate" href="/tags/demo/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/hu/tags/demo/" hreflang="hu"/>
     
       <loc>/tags/demo/</loc>
       <lastmod>2016-04-27T00:00:00+02:00</lastmod>
@@ -300,17 +196,11 @@
     
     <url>
     
-      <loc>/english/</loc>
-      <lastmod>2017-10-15T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
+      <xhtml:link rel="alternate" href="/project/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/hu/project/" hreflang="hu"/>
     
-  
-    
-    <url>
-    
-      <loc>/hungarian/</loc>
-      <lastmod>2017-10-15T00:00:00+02:00</lastmod>
+      <loc>/project/</loc>
+      <lastmod>2016-04-27T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -330,14 +220,21 @@
     
     <url>
     
-      <loc>/english/slides/example-slides/</loc>
+      <xhtml:link rel="alternate" href="/slides/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/hu/slides/" hreflang="hu"/>
+    
+      <loc>/slides/</loc>
+      <priority>0</priority>
     </url>
     
   
     
     <url>
     
-      <loc>/hungarian/slides/example-slides/</loc>
+      <xhtml:link rel="alternate" href="/slides/example-slides/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/hu/slides/example-slides/" hreflang="hu"/>
+    
+      <loc>/slides/example-slides/</loc>
     </url>
     
   

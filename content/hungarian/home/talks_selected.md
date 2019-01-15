@@ -4,7 +4,7 @@ widget = "talks_selected"
 active = false
 date = 2016-04-20T00:00:00
 
-title = "Selected Talks"
+title = "Válogatott előadások"
 subtitle = ""
 
 # Order that this section will appear in.
