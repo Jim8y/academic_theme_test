@@ -396,6 +396,14 @@ enableGitInfo = false
   name = "Útmutatók"
   url = "/tutorial/"
   weight = 5
+  identifier = "ut"
+  [[languages.hu.menu.main]]
+  name = "Útmutatók alá"
+  url = "#about"
+  weight = 5
+  parent = "ut"
+  
+  
 
 [[languages.hu.menu.main]]
   name = "Kapcsolat"

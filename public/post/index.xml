@@ -13,6 +13,35 @@
     
     
     <item>
+      <title>A Plain Markdown Post</title>
+      <link>/post/2016-12-30-hello-markdown/</link>
+      <pubDate>Sun, 20 Jan 2019 11:49:57 -0700</pubDate>
+      
+      <guid>/post/2016-12-30-hello-markdown/</guid>
+      <description>This is a post written in plain Markdown (*.md) instead of R Markdown (*.Rmd). The major differences are:
+ You cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (```{r}); A plain Markdown post is rendered through Blackfriday, and an R Markdown document is compiled by rmarkdown and Pandoc.  There are many differences in syntax between Blackfriday&amp;rsquo;s Markdown and Pandoc&amp;rsquo;s Markdown.</description>
+    </item>
+    
+    <item>
+      <title>2019 01 20 Hhh</title>
+      <link>/post/2019-01-20-hhh/</link>
+      <pubDate>Sun, 20 Jan 2019 11:55:36 +0100</pubDate>
+      
+      <guid>/post/2019-01-20-hhh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pressure</title>
+      <link>/post/pressure/</link>
+      <pubDate>Sun, 20 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/pressure/</guid>
+      <description>You can also embed plots, for example:
+Note that the echo = FALSE parameter was added to the code chunk to prevent printing of the R code that generated the plot.</description>
+    </item>
+    
+    <item>
       <title>Academic: the website designer for Hugo</title>
       <link>/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>

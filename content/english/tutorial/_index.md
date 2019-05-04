@@ -12,6 +12,9 @@ type = "docs"  # Do not modify.
 [menu.tutorial]
   name = "Overview"
   weight = 1
+[menu.other]
+  name = "Other"
+  weight = 2
 +++
 
 This feature can be used for publishing content such as:

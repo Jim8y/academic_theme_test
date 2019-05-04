@@ -70,6 +70,17 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="/hu/post/2016-12-30-hello-markdown/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/post/2016-12-30-hello-markdown/" hreflang="en"/>
+    
+      <loc>/hu/post/2016-12-30-hello-markdown/</loc>
+      <lastmod>2016-12-30T21:49:57-07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="/hu/project/internal-project/" hreflang="hu"/>
       <xhtml:link rel="alternate" href="/project/internal-project/" hreflang="en"/>
     

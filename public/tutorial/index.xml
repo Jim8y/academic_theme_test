@@ -13,6 +13,26 @@
     
     
     <item>
+      <title>Next Page</title>
+      <link>/tutorial/next/</link>
+      <pubDate>Fri, 09 Nov 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/tutorial/next/</guid>
+      <description>This is the next page in this example
+Tip 5 &amp;hellip;
+Tip 6 &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Other Page</title>
+      <link>/tutorial/other/</link>
+      <pubDate>Fri, 09 Nov 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/tutorial/other/</guid>
+      <description>This is another page.</description>
+    </item>
+    
+    <item>
       <title>Example Page</title>
       <link>/tutorial/example/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0200</pubDate>

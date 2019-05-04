@@ -4,6 +4,49 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="/post/2016-12-30-hello-markdown/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/hu/post/2016-12-30-hello-markdown/" hreflang="hu"/>
+    
+      <loc>/post/2016-12-30-hello-markdown/</loc>
+      <lastmod>2019-01-20T11:49:57-07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/2019-01-20-hhh/</loc>
+      <lastmod>2019-01-20T11:55:36+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/pressure/</loc>
+      <lastmod>2019-01-20T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tutorial/next/</loc>
+      <lastmod>2018-11-09T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tutorial/other/</loc>
+      <lastmod>2018-11-09T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="/tutorial/example/" hreflang="en"/>
       <xhtml:link rel="alternate" href="/hu/tutorial/example/" hreflang="hu"/>
     
@@ -258,6 +301,15 @@
     
       <loc>/</loc>
       <lastmod>2017-10-15T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/pressure/</loc>
+      <lastmod>2019-01-20T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
